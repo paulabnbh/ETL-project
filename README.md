@@ -22,6 +22,6 @@ He sacado una muestra aleatoria reducida de la base de datos de H&M para así ma
 
 La base de datos de H&M está en inglés mientras que las otras dos están en español. Por ello, una vez obtenidos todos los datos de las tres fuentes, he intentado traducir la base de datos de H&M para trabajar sobre un solo idioma, sin embargo, no me ha sido posible hacerlo debido a ciertas condiciones de uso que piden las librerías de traducción, por lo que una vez unificadas, encontramos la información de una tienda en un idioma mientras tenemos la información de las otras tiendas en español.
 
-Una vez unificado todo en una sola base de datos, se ha importado a SQL y se han lanzado una serie de queries para visualizar la base de datos.
+Una vez unificado todo en una sola base de datos, se ha importado a SQL y se han lanzado una serie de queries para visualizar la base de datos con cierto filtrado.
 
 ![cierre](https://github.com/paulabnbh/ETL-project/blob/main/imagenes/fashion2.jpg)
